@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakshi Bisen</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" widht="400" src="https://ik.imagekit.io/freeflo/production/eab3c089-9928-45a5-837d-6c32fa396d84.png?tr=w-3840,q-75&alt=media&pr-true">
+<img  align="right" widht="200" height="200" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshibisen&label=Profile%20views&color=0e75b6&style=flat" alt="sakshibisen" /> </p>
 
